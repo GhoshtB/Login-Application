@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padd_15">15dp</dimen>
+    <dimen name="text_med">16sp</dimen>
+    <dimen name="padd_5">5dp</dimen>
+    <dimen name="padd_10">10dp</dimen>
+    <dimen name="text_lrg">19sp</dimen>
+    <dimen name="dimen_32">42dp</dimen>
+    <dimen name="padd_3">3dp</dimen>
+</resources>
